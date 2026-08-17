@@ -1,4 +1,4 @@
-# Olá, meu nom é Jonathas dos Santos! 👋
+# Olá, meu nome é Jonathas dos Santos! 👋
 
 🎓 **Estudante de Engenharia de Software** | Foco em Lógica, C & Nuvem
 
