@@ -1,4 +1,4 @@
-# Olá, eu sou o Jonathas Barreto! 👋
+# Olá, meu nom é Jonathas dos Santos! 👋
 
 🎓 **Estudante de Engenharia de Software** | Foco em Lógica, C & Nuvem
 
